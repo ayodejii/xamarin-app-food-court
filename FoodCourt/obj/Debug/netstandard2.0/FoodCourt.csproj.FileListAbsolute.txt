@@ -1,0 +1,14 @@
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\bin\Debug\netstandard2.0\FoodCourt.deps.json
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\bin\Debug\netstandard2.0\FoodCourt.dll
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\obj\Debug\netstandard2.0\FoodCourt.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\obj\Debug\netstandard2.0\FoodCourt.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\obj\Debug\netstandard2.0\FoodCourt.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\obj\Debug\netstandard2.0\FoodCourt.dll
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\obj\Debug\netstandard2.0\ref\FoodCourt.dll
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\obj\Debug\netstandard2.0\FoodCourt.pdb
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\bin\Debug\netstandard2.0\ref\FoodCourt.dll
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\bin\Debug\netstandard2.0\FoodCourt.pdb
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Isaac\source\repos\FoodCourt\FoodCourt\obj\Debug\netstandard2.0\FoodCourt.csprojAssemblyReference.cache
